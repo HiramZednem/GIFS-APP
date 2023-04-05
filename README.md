@@ -1,3 +1,6 @@
+# HOW TO USE
+If you want to try this app, you need to go to src/app/gifs/services/gifs.service.ts and edit the 'apiKey' and change it to one easily obtained from from 'https://developers.giphy.com/'
+
 # GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
